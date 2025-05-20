@@ -50,7 +50,7 @@ ping google.com
 ```
 **Result:** Now successfully resolves and receives replies.
 
-![IP Config](../images/Re-test.png.)
+![IP Config](../images/Re-test.png)
 
 ### 🛡️ Prevention Tips
 - Use automatic DNS configuration via DHCP if available.
