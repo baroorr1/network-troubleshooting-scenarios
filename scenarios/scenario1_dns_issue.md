@@ -10,7 +10,7 @@ ping google.com
 ```
 **Result:** Request timed out or “could not find host”.
 
-![Ping Success](../images/dns_ping_success.png)
+![Ping Success](../images/CommandPromptTest.png.png)
 
 ```bash
 ping 8.8.8.8
