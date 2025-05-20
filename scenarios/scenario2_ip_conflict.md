@@ -10,19 +10,19 @@ ipconfig
 ```
 **Result:** Shows an IP address but network is limited or disconnected.
 
-![IPConfig Conflict](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/conflict.png)
+![IPConfig Conflict](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/ipconfig.png)
 
 ```bash
 arp -a
 ```
 **Result:** Displays multiple entries with the same IP address.
 
-![ARP Conflict](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/arp_conflict1.png)
+![ARP Conflict](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/arp_conflict.png)
 
 **Windows Notification or Event Viewer:**
 Duplicate IP warning may appear as a pop-up or log.
 
-![Conflict Warning](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/ip_conflict_warning.png)
+![Conflict Warning](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/conflict1.png)
 
 ### 🧠 Root Cause
 Another device on the network was manually assigned the same static IP, creating a conflict.
