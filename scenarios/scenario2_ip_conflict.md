@@ -10,7 +10,7 @@ ipconfig
 ```
 **Result:** Shows an IP address but network is limited or disconnected.
 
-![IPConfig Conflict](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/ipconfig_conflict.png)
+![IPConfig Conflict](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/conflict.png)
 
 ```bash
 arp -a
@@ -47,7 +47,7 @@ ipconfig
 ping 8.8.8.8
 ```
 
-![Resolved IPConfig](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/ipconfig_resolved.png)
+![Resolved IPConfig](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/last.png)
 
 ### 🛡️ Prevention Tips
 - Avoid manually assigning static IPs on networks that use DHCP
