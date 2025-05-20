@@ -24,7 +24,7 @@ nslookup google.com
 ```
 **Result:** DNS request times out or fails to resolve the domain name.
 
-![NSLookup Timeout](../images/dns_nslookup_timeout.png)
+
 
 ```bash
 ipconfig /all
@@ -49,6 +49,7 @@ Re-test:
 ping google.com
 ```
 **Result:** Now successfully resolves and receives replies.
+![IP Config](../images/dns_Re-test.png)
 
 ### 🛡️ Prevention Tips
 - Use automatic DNS configuration via DHCP if available.
