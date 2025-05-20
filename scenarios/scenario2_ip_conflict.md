@@ -17,7 +17,7 @@ arp -a
 ```
 **Result:** Displays multiple entries with the same IP address.
 
-![ARP Conflict](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/arp_conflict.png)
+![ARP Conflict](https://github.com/baroorr1/network-troubleshooting-scenarios/raw/main/images/arp_conflict1.png)
 
 **Windows Notification or Event Viewer:**
 Duplicate IP warning may appear as a pop-up or log.
